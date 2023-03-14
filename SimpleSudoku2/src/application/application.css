@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+@font-face {
+    font-family: Alata; 
+    src: url("Alata-Regular.ttf");
+}
+.root{
+	-fx-background-color:#D7CFF6;
+}
+
+/*button styling */
+#easy, #hard {
+    -fx-background-color:#3A248F;
+    -fx-text-fill:White;
+    -fx-background-radius:40px;
+    -fx-padding:40px;
+    -fx-pref-width:466px;
+    -fx-font-size:64px;
+    -fx-font-family: Alata;
+}
+
+#home{
+	-fx-background-color:#3A248F;
+    -fx-text-fill:White;
+    -fx-background-radius:40px;
+    -fx-font-size:20px;
+    -fx-font-family: Alata;
+}
