@@ -18,10 +18,7 @@
     -fx-font-family: Alata;
 }
 
+/*button styling for home button */
 #home{
-	-fx-background-color:#3A248F;
-    -fx-text-fill:White;
-    -fx-background-radius:40px;
-    -fx-font-size:20px;
-    -fx-font-family: Alata;
+	-fx-background-color:#D7CFF6;
 }
